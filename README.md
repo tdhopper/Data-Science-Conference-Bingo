@@ -9,6 +9,6 @@ Inspired by [John Foreman](https://twitter.com/John4man). Created by the crowds.
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                     | :-------------:      |  
 | ENSEMBLE METHODS | PANDAS                  | 100x FASTER THAN HIVE                                   | "END OF THEORY" REFERENCE | OUT-OF-CORE          |  
 | HASHING TRICK    | CURSE OF DIMENSIONALITY | FISHER'S IRIS DATA                                      | R                                                   | SEXY                 |  
-| CLOUDERA         | BIG DATA                | <img src="http://bit.ly/ILsgBK" height="75" width="75"> | NoSQL                                               | MAP-REDUCE WORDCOUNT |  
+| CLOUDERA         | BIG DATA                | <a href="http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram"><img src="http://bit.ly/ILsgBK" height="75" width="75"></a> | NoSQL                                               | MAP-REDUCE WORDCOUNT |  
 | RECOMMENDER      | HADLEY WICKHAM          | D3.js                                                   | GGPLOT                                              | PYTHON               |  
 | NAIVE BAYES      | INTERNET OF THINGS      | IO-BOUND                                                | KERNEL TRICK                                        | ARTISANAL DATA       |  
