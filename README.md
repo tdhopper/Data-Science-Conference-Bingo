@@ -6,7 +6,7 @@ Inspired by [John Foreman](https://twitter.com/John4man). Pull requests accepted
 | B                | I                       | N                                                       | G                                                                             | O                    |
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                                               | :-------------:      |
 | JUPYTER          | DEEP LEARNING           | ARTIFICIAL INTELLIGENCE                                 | RECURRENT NEURAL NETWORK                                                      | ETHICS               |
-| ENTERPRISE       | BOOTCAMP  P              | DATA SCIENCE INSTITUTE                                  | SPARK                                                                         | SEXY                 |
+| ENTERPRISE       | BOOTCAMP                | DATA SCIENCE INSTITUTE                                  | SPARK                                                                         | SEXY                 |
 | SCIKIT-LEARN     | BIG DATA                | <a href="http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram"><img src="http://bit.ly/ILsgBK" height="75" width="75"></a> | FISHER'S IRIS DATA   | REINFORCEMENT LEARNING |
 | DOCKER           | ANDREW NG               | SOCIAL GOOD                                             | KERAS                                                                         | PYTHON               |
 | COGNITIVE        | GPU                     | CHATBOT                                                 | MACHINE LEARNING ENGINEER                                                     | TENSORFLOW           |
