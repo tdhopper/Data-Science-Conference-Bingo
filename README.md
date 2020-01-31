@@ -1,5 +1,17 @@
 Inspired by [John Foreman](https://twitter.com/John4man). Pull requests accepted.
 
+## Data Science Conference Bingo (2020 Edition)
+
+
+| B                | I                       | N                                                       | G                                                                             | O                    |
+| :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                                               | :-------------:      |
+| JUPYTER IN PROD          | DEEP LEARNING           | ARTIFICIAL INTELLIGENCE                                 | RECURRENT NEURAL NETWORK                                                      | ETHICS               |
+| ENTERPRISE       | BOOTCAMP                | LAMBDA SCHOOL                                  | DASK                                                                       | THE NEW OIL                 |
+| SCIKIT-LEARN     | THE CLOUD               | <a href="http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram"><img src="http://bit.ly/ILsgBK" height="75" width="75"></a> | MNIST   | REINFORCEMENT LEARNING |
+| KUBERNETES           | ANDREJ KARPATHY               | BLACK BOX ALGO                                             | GDPR                                                                        | PYTHON 3               |
+| COGNITIVE        | GPU                     | PYTORCH                                                 | MACHINE LEARNING ENGINEER    | DIFFERENTIAL PRIVACY
+
+
 ## Data Science Conference Bingo (2017 Edition)
 
 
