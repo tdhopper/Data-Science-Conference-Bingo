@@ -8,7 +8,7 @@ Inspired by [John Foreman](https://twitter.com/John4man). Pull requests accepted
 | LLM          | LLM           | LLM                                 | LLM                                                      | LLM               |
 | LLM       | LLM                | LLM                                  | LLM                                                                       | LLM                 |
 | LLM     | LLM               | LLM | LLM   | LLM |
-| LLM           | LLM               | LLM                                             | LLM                                                                        | LLM3               |
+| LLM           | LLM               | LLM                                             | LLM                                                                        | LLM               |
 | LLM        | LLM                     | LLM                                                 | LLM    | LLM
 
 
