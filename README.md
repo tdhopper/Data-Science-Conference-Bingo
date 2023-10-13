@@ -1,5 +1,17 @@
 Inspired by [John Foreman](https://twitter.com/John4man). Pull requests accepted.
 
+## Data Science Conference Bingo (2023 Edition)
+
+
+| B                | I                       | N                                                       | G                                                                             | O                    |
+| :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                                               | :-------------:      |
+| LLM          | LLM           | LLM                                 | LLM                                                      | LLM               |
+| LLM       | LLM                | LLM                                  | LLM                                                                       | LLM                 |
+| LLM     | LLM               | LLM | LLM   | LLM |
+| LLM           | LLM               | LLM                                             | LLM                                                                        | LLM               |
+| LLM        | LLM                     | LLM                                                 | LLM    | LLM
+
+
 ## Data Science Conference Bingo (2020 Edition)
 
 
